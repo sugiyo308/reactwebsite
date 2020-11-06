@@ -1,0 +1,10 @@
+1 login github
+2. Pilih new, pilih new repository.
+3. isi form yang ada.
+
+
+git remote set-url origin https://github.com/sugiyo308/reactwebsite.git
+
+git remote -v
+
+git add .
